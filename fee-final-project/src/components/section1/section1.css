@@ -1,0 +1,118 @@
+
+.main-banner {
+    margin: 0 auto;
+    min-height: 1031px;
+    overflow: hidden;
+    padding: 0 0 413px;
+    position: relative;
+    width: 100%; /* 1600px / 1600px = 100% */
+    background: url(Layer69.png) no-repeat center 0;
+    background-position: center top;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  }
+  .main-banner-text {
+    margin: 104px auto 0;
+    position: relative;
+    width: 1404px;
+  }
+  .forme-62-copie-2-copy-holder {
+    float: left;
+    margin: 176px 0 0;
+    padding: 33px 0;
+    position: relative;
+    width: 80px;
+    background: hsla(0, 0%, 100%, 0);
+  }
+  .forward-16-copy {
+    display: block;
+    margin: 0 auto;
+  }
+  .col-11 {
+    float: right;
+    margin: 0 5px 0 0;
+    position: relative;
+    width: 1177px;
+  }
+  .row-9 {
+    position: relative;
+  }
+  .col-13 {
+    float: left;
+    position: relative;
+    width: 942px;
+  }
+  .text {
+    font-size: 3.125001rem; 
+    font-weight: bold;
+    line-height: 1.2;
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  .text-2 {
+    margin: 42px 57px 0 43px;
+    font-size: 1.642818rem; 
+    text-align: center;
+    text-transform: uppercase;
+    color: #ffffff;
+  }
+  .text-3 {
+    left: 21.5px;
+    margin: 44px auto 0;
+    position: relative;
+    width: 841px;
+    font-size: 1.642818rem; 
+    line-height: 41.30514px;
+    text-align: center;
+    color: #ffffff;
+  }
+ 
+  .forme-62-copie-2-holder {
+    float: right;
+    margin: 175px 0 0;
+    padding: 33px 0;
+    position: relative;
+    width: 80px;
+    background: hsla(0, 0%, 100%, 0);
+  }
+  .forward-16 {
+    display: block;
+    margin: 0 auto;
+  }
+  .row-7 {
+    margin: 67px auto 0;
+    position: relative;
+    right: 104.5px;
+    width: 268px;
+  }
+  .rounded-rectangle-1-copy-8-holder {
+    float: left;
+    min-height: 38px;
+    width: 110px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #000000;
+    font-size: 0.875rem; 
+    font-weight: bold;
+    line-height: 38px;
+    text-align: center;
+  }
+  .rounded-rectangle-1-copy-9-holder {
+    float: right;
+    min-height: 38px;
+    width: 110px;
+    -webkit-border-radius: 5px;
+    -moz-border-radius: 5px;
+    border-radius: 5px;
+    background: #ffffff;
+    color: #000000;
+    font-size: 0.875rem; 
+    font-weight: bold;
+    line-height: 38px;
+    text-align: center;
+  }

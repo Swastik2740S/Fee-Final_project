@@ -1,0 +1,56 @@
+.ceo-message {
+    margin: 0 auto;
+    overflow: hidden;
+    padding: 0 150px;
+    position: relative;
+    width: 100%;
+    z-index: 0;
+    background: url(layer_68.jpg) no-repeat center bottom;
+    height: 650px;
+    
+  }
+  .text-14 {
+    position: relative;
+    opacity: 0.08;
+    font-family: 'Gentium Basic', serif;
+    font-size: 17.262655rem; 
+    text-align: center;
+    top: 300px;
+    right: 40%;
+    color: rgb(139, 139, 139);
+  }
+  .col-10 {
+    float: left;
+    margin: 84px 0 0 1px;
+    position: relative;
+    width: 566px;
+  }
+  .text-15 {
+    margin: 0 auto;
+    position: relative;
+    left: 23%;
+    width: 489px;
+    font-size: 1.375rem; 
+    line-height: 36px;
+    text-align: center;
+    top: 1%;
+    color: #ffff;
+  }
+  .text-16 {
+    margin: -103px 0 0;
+    position: relative;
+    opacity: 0.08;
+    font-family: 'Gentium Basic', serif;
+    font-size: 17.262655rem; 
+    text-align: right;
+    top:30px;
+    left: 25%;
+    color: rgb(149, 149, 149);
+  }
+  .text-17 {
+    position: relative;
+    margin: 124px 0 0 132px;
+    top:1%;
+    left: 18%;
+  }
+
